@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Note
+
+This boilerplate's purpose is to save those extra few minutes setting up dependencies and removing unnecessary resources. See below for changes made:
+
+- Removed React default resources
+- Added Node-Sass
+- Add HOC files Aux and Layout
+
 ## Available Scripts
 
 In the project directory, you can run:
